@@ -5,18 +5,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="132a636e-7192-4d49-9521-8c3dd3a8dc05" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/MINGUETO-GIT.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/pyhton-codigos/função2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/pyhton-codigos/função2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/IMC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/alistamento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/analisdadorcompleto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/analise_texto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/ano_bissexto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/antecessor_sucessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/análise_tupla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/aumento_salarial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/banco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/boletim_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/cadastro_trabalhador_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/carro_alugado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/dados_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/dinheiro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/distancia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/dobro_triplo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/empréstimo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/fogos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/gerenciador_pagamentos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/jogo_adivinha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/jogo_do_adivinha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/jogo_par_impar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/jokenpo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/maior_número.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/maior_peso.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/maioridade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/mega_sena.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/menor_maior_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/mundo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/média_aritimética.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/média_dicionário.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/numero_extenso.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/número_primo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/números_unicos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/ocorrência_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/palindromo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/pares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/pintando_parede.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/produtos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/progressao_aritimetica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/quebrando_numero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/radar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/separando_números.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/soma_multiplo_impares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/soma_pares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/sorteio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/sorteio_tupla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/tratando_valores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/triangulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/valindando_dados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/verificando_letra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/viagem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/pyhton-codigos/vogais_tuplas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/pyhton-codigos/tabuada.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/pyhton-codigos/tabuada.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,7 +83,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29MA7048n4hhceeOHsCuFyeJ6K1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,6 +102,125 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PEDRO\PycharmProjects\MINGUETO-GIT\python" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PEDRO\PycharmProjects\MINGUETO-GIT\python\pyhton-codigos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.cadastro_trabalhador_dict">
+    <configuration name="boletim_lista" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MINGUETO-GIT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/pyhton-codigos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/pyhton-codigos/boletim_lista.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cadastro_trabalhador_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MINGUETO-GIT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/pyhton-codigos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/pyhton-codigos/cadastro_trabalhador_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dados_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MINGUETO-GIT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/pyhton-codigos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/pyhton-codigos/dados_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mega_sena" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MINGUETO-GIT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\PEDRO\PycharmProjects\MINGUETO-GIT\python\pyhton-codigos\mega_sena.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="média_dicionário" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MINGUETO-GIT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/pyhton-codigos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/pyhton-codigos/média_dicionário.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cadastro_trabalhador_dict" />
+        <item itemvalue="Python.dados_dict" />
+        <item itemvalue="Python.média_dicionário" />
+        <item itemvalue="Python.boletim_lista" />
+        <item itemvalue="Python.mega_sena" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
