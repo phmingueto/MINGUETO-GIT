@@ -12,5 +12,3 @@ print(ranking)
 
 for i, v in enumerate(ranking):
     print(f'{v[0]} ficou em {i + 1} lugar pois tirou {v[1]}')
-
-
